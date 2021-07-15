@@ -19,8 +19,8 @@ body{
     background-color: #d7d7f6;
 opacity: 1;
 background-size: 800px 100px;
-background: -webkit-linear-gradient(to right, #f807572c, #bc4e9d28),url(../img/1.svg); 
-background-image: repeating-linear-gradient(1deg,  #06d8bc00 1200px,  #06d8bc00 100% ),url(../img/1.svg);
+background: -webkit-linear-gradient(to right, #f807572c, #bc4e9d28),url(../img/1a.jpg); 
+background-image: repeating-linear-gradient(1deg,  #06d8bc00 1200px,  #06d8bc00 100% ),url(../img/1a.jpg);
 background-size: cover;
 background-attachment: fixed;
 position: relative;
